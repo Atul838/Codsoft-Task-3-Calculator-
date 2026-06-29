@@ -1,1 +1,1 @@
-# Codsoft-Task-3-Calculator-
+#Codsoft-Task-3-CalculatorName: ATUL **Internship ID: BY26RY205131 **Domain: Web Development 🚀 Projects 📌 Task 3: Calculator using HTML CSS and JS
